@@ -1,6 +1,6 @@
 ---
 title: Bridges Home Improvements
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Making your home as good as new
 image: /img/whatsapp-image-2018-12-19-at-19.30.23-1-.jpeg
 blurb:
   heading: Why Bridges?
